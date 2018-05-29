@@ -1,0 +1,2 @@
+En Stencyl, en "Publish"->"Web"->"Flash", generar un archivo ".swf". 
+Poner este archivo en un directorio junto con un reproductor de flash y un archivo ".bat" que hay que editar para pasarle el nombre del juego .swf que queramos ejecutar.

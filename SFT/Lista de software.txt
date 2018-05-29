@@ -1,0 +1,7 @@
+- Arduino.
+- python-2.7.13
+- pywin32-218.win32-py2.7
+- pyserial-2.5.win32
+- VPython-Win-Py2.7-5.74
+- Scratch-456.0.4
+- Stencyl-full

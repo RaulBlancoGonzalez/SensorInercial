@@ -1,0 +1,1 @@
+flashplayer_19_sa.exe yourgame.swf
